@@ -1,0 +1,17 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans";
+
+html {
+	background: black linear-gradient(to bottom, #222, #000 500px, #000);
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	line-height: 175%;
+	min-height: 100%;
+	padding: 0;
+}
+
+body {
+	margin: 0 auto;
+	max-width: 800px;
+	padding: 10px 15px;
+}
